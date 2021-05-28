@@ -1,0 +1,26 @@
+diff a/courses/machine_learning/deepdive2/introduction_to_tensorflow/solutions/2_dataset_api.ipynb b/courses/machine_learning/deepdive2/introduction_to_tensorflow/solutions/2_dataset_api.ipynb	(rejected hunks)
+@@ -140,15 +140,15 @@
+    "execution_count": null,
+    "metadata": {},
+    "outputs": [
+-     {
+-      "name": "stdout",
+-      "output_type": "stream",
+-      "text": [
+-        "x: [0. 1. 2.] y: [10. 12. 14.]\n",
+-        "x: [3. 4. 5.] y: [16. 18. 20.]\n",
+-        "x: [6. 7. 8.] y: [22. 24. 26.]\n"
+-      ]
+-     }
++    {
++     "name": "stdout",
++     "output_type": "stream",
++     "text": [
++      "x: [0. 1. 2.] y: [10. 12. 14.]\n",
++      "x: [3. 4. 5.] y: [16. 18. 20.]\n",
++      "x: [6. 7. 8.] y: [22. 24. 26.]\n"
++     ]
++    }
+    ],
+    "source": [
+     "BATCH_SIZE = 3\n",
